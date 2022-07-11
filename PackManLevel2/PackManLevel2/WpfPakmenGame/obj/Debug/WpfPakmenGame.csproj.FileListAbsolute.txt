@@ -1,0 +1,80 @@
+C:\Users\y\Desktop\תוכנות שלי\מישחק פאקמן\WpfPakmenGame\WpfPakmenGame\bin\Debug\WpfPakmenGame.exe.config
+C:\Users\y\Desktop\תוכנות שלי\מישחק פאקמן\WpfPakmenGame\WpfPakmenGame\bin\Debug\WpfPakmenGame.exe
+C:\Users\y\Desktop\תוכנות שלי\מישחק פאקמן\WpfPakmenGame\WpfPakmenGame\bin\Debug\WpfPakmenGame.pdb
+C:\Users\y\Desktop\תוכנות שלי\מישחק פאקמן\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.AssemblyReference.cache
+C:\Users\y\Desktop\תוכנות שלי\מישחק פאקמן\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\y\Desktop\תוכנות שלי\מישחק פאקמן\WpfPakmenGame\WpfPakmenGame\obj\Debug\MainWindow.g.cs
+C:\Users\y\Desktop\תוכנות שלי\מישחק פאקמן\WpfPakmenGame\WpfPakmenGame\obj\Debug\App.g.cs
+C:\Users\y\Desktop\תוכנות שלי\מישחק פאקמן\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame_MarkupCompile.cache
+C:\Users\y\Desktop\תוכנות שלי\מישחק פאקמן\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame_MarkupCompile.lref
+C:\Users\y\Desktop\תוכנות שלי\מישחק פאקמן\WpfPakmenGame\WpfPakmenGame\obj\Debug\MainWindow.baml
+C:\Users\y\Desktop\תוכנות שלי\מישחק פאקמן\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame.g.resources
+C:\Users\y\Desktop\תוכנות שלי\מישחק פאקמן\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame.Properties.Resources.resources
+C:\Users\y\Desktop\תוכנות שלי\מישחק פאקמן\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.GenerateResource.cache
+C:\Users\y\Desktop\תוכנות שלי\מישחק פאקמן\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.CoreCompileInputs.cache
+C:\Users\y\Desktop\תוכנות שלי\מישחק פאקמן\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame.exe
+C:\Users\y\Desktop\תוכנות שלי\מישחק פאקמן\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame.pdb
+C:\Users\y\Desktop\מישחק פאקמן\תוכנות שלי\WpfPakmenGame\WpfPakmenGame\bin\Debug\WpfPakmenGame.exe.config
+C:\Users\y\Desktop\מישחק פאקמן\תוכנות שלי\WpfPakmenGame\WpfPakmenGame\bin\Debug\WpfPakmenGame.exe
+C:\Users\y\Desktop\מישחק פאקמן\תוכנות שלי\WpfPakmenGame\WpfPakmenGame\bin\Debug\WpfPakmenGame.pdb
+C:\Users\y\Desktop\מישחק פאקמן\תוכנות שלי\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.AssemblyReference.cache
+C:\Users\y\Desktop\מישחק פאקמן\תוכנות שלי\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\y\Desktop\מישחק פאקמן\תוכנות שלי\WpfPakmenGame\WpfPakmenGame\obj\Debug\MainWindow.g.cs
+C:\Users\y\Desktop\מישחק פאקמן\תוכנות שלי\WpfPakmenGame\WpfPakmenGame\obj\Debug\App.g.cs
+C:\Users\y\Desktop\מישחק פאקמן\תוכנות שלי\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame_MarkupCompile.cache
+C:\Users\y\Desktop\מישחק פאקמן\תוכנות שלי\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame_MarkupCompile.lref
+C:\Users\y\Desktop\מישחק פאקמן\תוכנות שלי\WpfPakmenGame\WpfPakmenGame\obj\Debug\MainWindow.baml
+C:\Users\y\Desktop\מישחק פאקמן\תוכנות שלי\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame.g.resources
+C:\Users\y\Desktop\מישחק פאקמן\תוכנות שלי\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame.Properties.Resources.resources
+C:\Users\y\Desktop\מישחק פאקמן\תוכנות שלי\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.GenerateResource.cache
+C:\Users\y\Desktop\מישחק פאקמן\תוכנות שלי\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.CoreCompileInputs.cache
+C:\Users\y\Desktop\מישחק פאקמן\תוכנות שלי\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame.exe
+C:\Users\y\Desktop\מישחק פאקמן\תוכנות שלי\WpfPakmenGame\WpfPakmenGame\obj\Debug\WpfPakmenGame.pdb
+C:\Users\y\Desktop\פאקמן לבל 2\WpfPakmenGame\bin\Debug\WpfPakmenGame.exe.config
+C:\Users\y\Desktop\פאקמן לבל 2\WpfPakmenGame\bin\Debug\WpfPakmenGame.exe
+C:\Users\y\Desktop\פאקמן לבל 2\WpfPakmenGame\bin\Debug\WpfPakmenGame.pdb
+C:\Users\y\Desktop\פאקמן לבל 2\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.AssemblyReference.cache
+C:\Users\y\Desktop\פאקמן לבל 2\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\y\Desktop\פאקמן לבל 2\WpfPakmenGame\obj\Debug\MainWindow.g.cs
+C:\Users\y\Desktop\פאקמן לבל 2\WpfPakmenGame\obj\Debug\App.g.cs
+C:\Users\y\Desktop\פאקמן לבל 2\WpfPakmenGame\obj\Debug\WpfPakmenGame_MarkupCompile.cache
+C:\Users\y\Desktop\פאקמן לבל 2\WpfPakmenGame\obj\Debug\WpfPakmenGame_MarkupCompile.lref
+C:\Users\y\Desktop\פאקמן לבל 2\WpfPakmenGame\obj\Debug\MainWindow.baml
+C:\Users\y\Desktop\פאקמן לבל 2\WpfPakmenGame\obj\Debug\WpfPakmenGame.g.resources
+C:\Users\y\Desktop\פאקמן לבל 2\WpfPakmenGame\obj\Debug\WpfPakmenGame.Properties.Resources.resources
+C:\Users\y\Desktop\פאקמן לבל 2\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.GenerateResource.cache
+C:\Users\y\Desktop\פאקמן לבל 2\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.CoreCompileInputs.cache
+C:\Users\y\Desktop\פאקמן לבל 2\WpfPakmenGame\obj\Debug\WpfPakmenGame.exe
+C:\Users\y\Desktop\פאקמן לבל 2\WpfPakmenGame\obj\Debug\WpfPakmenGame.pdb
+C:\Users\y\Desktop\PackManLevel2\WpfPakmenGame\bin\Debug\WpfPakmenGame.exe.config
+C:\Users\y\Desktop\PackManLevel2\WpfPakmenGame\bin\Debug\WpfPakmenGame.exe
+C:\Users\y\Desktop\PackManLevel2\WpfPakmenGame\bin\Debug\WpfPakmenGame.pdb
+C:\Users\y\Desktop\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.AssemblyReference.cache
+C:\Users\y\Desktop\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\y\Desktop\PackManLevel2\WpfPakmenGame\obj\Debug\MainWindow.g.cs
+C:\Users\y\Desktop\PackManLevel2\WpfPakmenGame\obj\Debug\App.g.cs
+C:\Users\y\Desktop\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame_MarkupCompile.cache
+C:\Users\y\Desktop\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame_MarkupCompile.lref
+C:\Users\y\Desktop\PackManLevel2\WpfPakmenGame\obj\Debug\MainWindow.baml
+C:\Users\y\Desktop\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame.g.resources
+C:\Users\y\Desktop\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame.Properties.Resources.resources
+C:\Users\y\Desktop\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.GenerateResource.cache
+C:\Users\y\Desktop\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.CoreCompileInputs.cache
+C:\Users\y\Desktop\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame.exe
+C:\Users\y\Desktop\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame.pdb
+C:\Users\yahav\OneDrive\שולחן העבודה\PackManLevel2\PackManLevel2\WpfPakmenGame\bin\Debug\WpfPakmenGame.exe.config
+C:\Users\yahav\OneDrive\שולחן העבודה\PackManLevel2\PackManLevel2\WpfPakmenGame\bin\Debug\WpfPakmenGame.exe
+C:\Users\yahav\OneDrive\שולחן העבודה\PackManLevel2\PackManLevel2\WpfPakmenGame\bin\Debug\WpfPakmenGame.pdb
+C:\Users\yahav\OneDrive\שולחן העבודה\PackManLevel2\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.AssemblyReference.cache
+C:\Users\yahav\OneDrive\שולחן העבודה\PackManLevel2\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\yahav\OneDrive\שולחן העבודה\PackManLevel2\PackManLevel2\WpfPakmenGame\obj\Debug\MainWindow.g.cs
+C:\Users\yahav\OneDrive\שולחן העבודה\PackManLevel2\PackManLevel2\WpfPakmenGame\obj\Debug\App.g.cs
+C:\Users\yahav\OneDrive\שולחן העבודה\PackManLevel2\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame_MarkupCompile.cache
+C:\Users\yahav\OneDrive\שולחן העבודה\PackManLevel2\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame_MarkupCompile.lref
+C:\Users\yahav\OneDrive\שולחן העבודה\PackManLevel2\PackManLevel2\WpfPakmenGame\obj\Debug\MainWindow.baml
+C:\Users\yahav\OneDrive\שולחן העבודה\PackManLevel2\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame.g.resources
+C:\Users\yahav\OneDrive\שולחן העבודה\PackManLevel2\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame.Properties.Resources.resources
+C:\Users\yahav\OneDrive\שולחן העבודה\PackManLevel2\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.GenerateResource.cache
+C:\Users\yahav\OneDrive\שולחן העבודה\PackManLevel2\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame.csproj.CoreCompileInputs.cache
+C:\Users\yahav\OneDrive\שולחן העבודה\PackManLevel2\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame.exe
+C:\Users\yahav\OneDrive\שולחן העבודה\PackManLevel2\PackManLevel2\WpfPakmenGame\obj\Debug\WpfPakmenGame.pdb
